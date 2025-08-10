@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align : center;
+    color:blue;
+    font-size: x-large;
+}
+
+h2 { 
+    font-size: large;
+    padding: auto;
+
+
+}
+
+img {
+
+    size: 3cm;
+}
+
+footer {
+
+    padding: 10px;
+}
